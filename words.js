@@ -1,0 +1,1 @@
+window.MOCA_WORDS = ["COFEE", "BEANS", "ROAST", "MOCHA", "LATTE"];
